@@ -1,6 +1,6 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Denver's Best Real Estate Training"
+description: The Dixon Group, a top Real Estate Agent in Denver, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -10,26 +10,26 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: The Dixon Group
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    The Dixon Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Denver Metro. Selling these "right addresses" is the mission of The Dixon Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Denver Metro Real Estate search, but also feel free to contact us personally.
+  market: Denver
+  brand: Keller Williams
   brokerage:
-  address:
-  phone:
+  address: '50 S Steele Street #700, Denver, CO 80209'
+  phone: 719-399-0023
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: recruiting@dgdenver.com
+  url: http://www.metrodenverliving.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_text: "Let's talk about how The Dixon Group can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -67,19 +67,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Denver Real Estate Podcast with The Dixon Group'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Denver Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dixon Group - your professional Denver Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'The Dixon Group'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Denver Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
