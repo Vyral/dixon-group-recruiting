@@ -1,9 +1,8 @@
 ---
 layout: post
 title: We’re Teaching You Our Best Lessons
-date: 2020-02-07 21:51:26
+date: 2020-02-07 21:51:00
 tags:
-  - Transaction Management
 excerpt: >-
   We’re teaching agents our most important lessons, the biggest mistakes to
   avoid, and more through our brand-new SCALE series. Here’s what you can expect
