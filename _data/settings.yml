@@ -24,7 +24,7 @@ client:
   phone2:
   phone2_type:
   email: recruiting@dgdenver.com
-  url: http://www.metrodenverliving.com
+  url: 
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
