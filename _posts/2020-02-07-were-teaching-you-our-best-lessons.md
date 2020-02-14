@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/introducing-our-scale-series-youtube.jpg
-youtube_code: 'https://youtu.be/iOaB31zeXxI'
+youtube_code: CSbViAw3qdc
 ---
 
 {% include youtube.html %} {% include full-post-cta.html %}
