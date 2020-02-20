@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scale Series, Part 1: Strategy'
-date: 2020-02-20 17:20:38
+date: 2020-02-20 17:20:00
 tags:
 excerpt: >-
   In part one of my new series, I’ll discuss business strategy and tactics you
@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/tips-to-improve-your-strategy-youtube.jpg
 youtube_code: 'https://youtu.be/SBmzGOYPO-0'
 ---
 
-{% include youtube.html %} {% include full-post-cta.html %}
+{% include youtube.html %}
 
 A business is only as successful as the strategies behind it. Today in this first part of our new series, I’ll share a few of our business strategies as tips to help you increase your success.
 
@@ -30,3 +30,5 @@ Speaking of tracking, we also make a point to track everything week after week s
 Our group’s theme is intentional living. One of the key pieces of living that theme is maintaining a work/life balance. We like to check in with each of our agents to find out how they’re doing in terms of their housing, family, interests, etc. They work hard every day, so we **strategize to help them find a balance between their work and home life** so they can continue to operate their business and enjoy life while they do it.
 
 Next time in part two of our Scale series we’ll talk about culture. If you have any questions in the meantime, don’t hesitate to reach out to the Dixon Group. We are here to be a resource for you.
+
+{% include full-post-cta.html %}
