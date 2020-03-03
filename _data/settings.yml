@@ -26,7 +26,7 @@ client:
   market: Denver
   brand: Keller Williams
   brokerage:
-  address: '50 S Steele Street #700<br>Denver, CO 80209'
+  address: '50 S Steele St #700<br>Denver, CO 80209'
   phone: (719) 399-0023
   phone_type:
   phone2:
