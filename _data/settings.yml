@@ -1,57 +1,57 @@
 audit_header: false
-title: "Denver's Best Real Estate Training"
-description: The Dixon Group, a top Real Estate Agent in Denver, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Denver's Best Real Estate Training
+description: >-
+  The Dixon Group, a top Real Estate Agent in Denver, shares their own internal
+  real estate agent training for free. Their Real Estate Training, Tips and
+  Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url:
   - title: Free Strategy Call
     url: /contact/
 client:
   name: The Dixon Group
   title:
   license_number:
-  about_markdown: |
-    The Dixon Group is comprised of a team of local real estate professionals committed to selling some of the most desired homes in Denver Metro. Selling these "right addresses" is the mission of The Dixon Group. Let us know what you're looking for. Please take advantage of the helpful tools on this website, including our exclusive Denver Metro Real Estate search, but also feel free to contact us personally.
+  about_markdown: >-
+    The Dixon Group is comprised of a team of local real estate professionals
+    committed to selling some of the most desired homes in Denver Metro. Selling
+    these "right addresses" is the mission of The Dixon Group. Let us know what
+    you're looking for. Please take advantage of the helpful tools on this
+    website, including our exclusive Denver Metro Real Estate search, but also
+    feel free to contact us personally.
   market: Denver
   brand: Keller Williams
   brokerage:
-  address: '50 S Steele Street #700, Denver, CO 80209'
-  phone: 719-399-0023
+  address: '50 S Steele Street #700<br>Denver, CO 80209'
+  phone: (719) 399-0023
   phone_type:
   phone2:
   phone2_type:
   email: recruiting@dgdenver.com
-  url: 
-
+  url:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how The Dixon Group can take your business to new heights."
-    CTA_link_text: "Free Strategy Session"
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: >-
+      Let's talk about how The Dixon Group can take your business to new
+      heights.
+    CTA_link_text: Free Strategy Session
     CTA_url: /contact/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
   facebook_url:
@@ -65,46 +65,53 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Denver Real Estate Podcast with The Dixon Group'
-  categories: Education
+  title: Denver Real Estate Podcast with The Dixon Group
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Denver Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dixon Group - your professional Denver Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'The Dixon Group'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Denver
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from The Dixon Group - your professional
+    Denver Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Denver, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: The Dixon Group
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Denver Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
