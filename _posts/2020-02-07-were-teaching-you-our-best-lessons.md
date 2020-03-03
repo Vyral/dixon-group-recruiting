@@ -17,6 +17,8 @@ youtube_alternate_image: /uploads/introducing-our-scale-series-youtube.jpg
 youtube_code: CSbViAw3qdc
 ---
 
-{% include youtube.html %} {% include full-post-cta.html %}
+{% include youtube.html %}
 
 I’m excited to announce the launch of our coaching and mentoring video blog. I jumped in to real estate in 2013 as a solo agent, and in just a few years, built a mega agent team, in-house mortgage team, ISA division, wholesale business, and ownership in a title company. There have been plenty of failures, lessons learned, and massive growth to get us where we are today and we’re excited to share all of that with you. We’ll bring you all of this information through our SCALE series, which stands for Strategy, Culture, Accountability, Leverage, and Experience.
+
+{% include full-post-cta.html %}
