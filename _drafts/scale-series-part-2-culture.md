@@ -16,9 +16,9 @@ youtube_code: Vfwnhc2WMXQ
 
 {% include youtube.html %}
 
-<center><em>Today I’ll discuss what the C in our SCALE series stands for: culture.</em></center>
+<center><em>Today I&rsquo;ll discuss what the C in our SCALE series stands for: culture.</em></center>
 
-<br>When you’re creating a culture in your business, **do you want it to come by design or by default?** We’ve been very intentional about maintaining our culture and who we bring into our world. So if you’re building your business team right now or you’re just looking to add a transaction coordinator or lender, be sure that they mesh well with your business’ culture.
+<br>When you’re creating a culture in your business, **do you want it to come by design or by default?** We’ve been very intentional about maintaining our culture and who we bring into our world. So if you’re building your business team right now, or you’re just looking to add a transaction coordinator or lender, be sure that they mesh well with your business’ culture.
 
 **All of our agents are held to a very high standard of accountability**, which is one of the most important staples of our culture. We’ve found that the top producing agents like this too; every week, they track their metrics and submit them to the team’s Slack channel on Sunday.
 
