@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-6---daniel-dixon---yt.jpg
-youtube_code: Vfwnhc2WMXQ
+youtube_code: AoJnEF_Z8GE
 ---
 
 {% include youtube.html %}
