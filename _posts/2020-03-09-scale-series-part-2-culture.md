@@ -5,7 +5,8 @@ date: 2020-03-09 00:00:00
 tags:
   - Transaction Management
 excerpt: 'Today I’ll discuss what the C in our SCALE series stands for: culture.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+2-+Culture.mp4
 pullquote: 'To maintain your culture, you have to be reminded of it every single day.'
 enclosure_type: video/mp4
 enclosure_time:
