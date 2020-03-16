@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We’re Creating a Seamless Experience for Our Clients
+title: How We’re Creating a Seamless Experience
 date: 2020-03-16 00:00:00
 tags:
   - Transaction Management
