@@ -5,7 +5,8 @@ date: 2020-03-16 00:00:00
 tags:
   - Transaction Management
 excerpt: Our goal is to create a seamless experience for you and your clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/How+Were+Creating+a+Seamless+Experience.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
