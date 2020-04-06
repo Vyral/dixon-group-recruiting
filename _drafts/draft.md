@@ -2,14 +2,19 @@
 layout: post
 title: 'SCALE Series, Part 3: Accountability'
 tags:
-excerpt:
+  - Transaction Management
+excerpt: >-
+  Dan Brener, one of our top-producing agents, joined me today to discuss the
+  ‘A’ in our SCALE series: accountability.
 enclosure:
-pullquote:
+pullquote: >-
+  We need to hold ourselves accountable for each day’s activities, so we can
+  grow our business throughout the year.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/3-27---daniel-dixon---yt.jpg
+youtube_code: HX88b9r0eoI
 ---
 
 {% include youtube.html %}
