@@ -19,7 +19,7 @@ youtube_code: HX88b9r0eoI
 
 {% include youtube.html %}
 
-<center><em>Dan Brener, one of our top-producing agents, joined me today to discuss the ‘A’ in our SCALE series: accountability.</em></center>
+<center><em>Dan Brener, one of our top-producing agents, joined me today to discuss the &lsquo;A&rsquo; in our SCALE series: accountability.</em></center>
 
 <br><u><a target="_blank" href="https://joindgod.com/scale-series-part-2-culture.html">Last time</a></u>, we touched on accountability, explaining how **we meet with all of our agents weekly** to ensure they’re acting with purpose and efficiency.
 
