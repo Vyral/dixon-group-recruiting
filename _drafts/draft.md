@@ -19,7 +19,9 @@ youtube_code: HX88b9r0eoI
 
 {% include youtube.html %}
 
-<u><a target="_blank" href="https://joindgod.com/scale-series-part-2-culture.html">Last time</a></u>, we touched on accountability, explaining how **we meet with all of our agents weekly** to ensure they’re acting with purpose and efficiency.
+<center><em>Dan Brener, one of our top-producing agents, joined me today to discuss the ‘A’ in our SCALE series: accountability.</em></center>
+
+<br><u><a target="_blank" href="https://joindgod.com/scale-series-part-2-culture.html">Last time</a></u>, we touched on accountability, explaining how **we meet with all of our agents weekly** to ensure they’re acting with purpose and efficiency.
 
 Before he joined the Dixon Group, top producer Dan Brener worked as a solo agent. He didn’t have much structure in his life—he just rolled with the punches. Since joining us, however, he’s learned that when you attack each day and week with intention and hold yourself accountable, then you’ll start accomplishing the goals you’ve set for yourself, your clients, and your business
 
