@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Dan Brener, one of our top-producing agents, joined me today to discuss the
   ‘A’ in our SCALE series: accountability.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+3-+Accountability.mp4
 pullquote: >-
   We need to hold ourselves accountable for each day’s activities, so we can
   grow our business throughout the year.
