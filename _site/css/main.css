@@ -381,7 +381,7 @@ th {
 * 12/29/2014
 */
 /* Table of contents
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤
+––––––––––––––––––––––––––––––––––––––––––––––––––
 - Grid
 - Base Styles
 - Typography
@@ -397,7 +397,7 @@ th {
 - Media Queries
 */
 /* Grid
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
   width: 100%;
@@ -534,7 +534,7 @@ th {
   .offset-by-one-half.columns {
     margin-left: 52%; } }
 /* Base Styles
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
@@ -549,7 +549,7 @@ body {
   color: #222; }
 
 /* Typography
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1,
 h2,
 h3,
@@ -613,7 +613,7 @@ p {
   margin-top: 0; }
 
 /* Buttons
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button, .button-ghost,
 button,
 input[type="button"],
@@ -672,7 +672,7 @@ input[type="submit"].button-primary:hover {
   background-color: #1EAEDB; }
 
 /* Forms
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 input[type="email"],
 input[type="number"],
 input[type="password"],
@@ -741,7 +741,7 @@ label > .label-body {
   font-weight: normal; }
 
 /* Lists
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside; }
 
@@ -764,7 +764,7 @@ li {
   margin-bottom: 1rem; }
 
 /* Code
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
   padding: 0.2rem 0.5rem;
   margin: 0 0.2rem;
@@ -780,7 +780,7 @@ pre > code {
   white-space: pre; }
 
 /* Tables
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 td,
 th {
   padding: 12px 15px;
@@ -796,7 +796,7 @@ th:last-child {
   padding-right: 0; }
 
 /* Spacing
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button, .button-ghost,
 button {
   margin-bottom: 1rem; }
@@ -819,7 +819,7 @@ ul {
   margin-bottom: 2.5rem; }
 
 /* Utilities
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
@@ -835,7 +835,7 @@ ul {
   float: left; }
 
 /* Misc
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
@@ -843,7 +843,7 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 /* Clearing
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Self Clearing Goodness */
 .container:after,
 .row:after,
@@ -853,7 +853,7 @@ hr {
   clear: both; }
 
 /* Media Queries
-╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤╬ô├ç├┤ */
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
 Note: The best way to structure the use of media queries is to create the queries
 near the relevant code. For example, if you wanted to change the styles for buttons
@@ -1315,7 +1315,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #999999;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1345,7 +1345,6 @@ html[xmlns] .flexslider .slides {
     background: #eeeeee;
     color: #810101; }
   .navbar-left > li > a:active {
-    -webkit-transform: translateY(0rem);
     transform: translateY(0rem);
     text-decoration: none;
     color: #b40101; }
@@ -1401,8 +1400,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 250px;
-    margin-top: -10px; } }
+    max-width: 200px;
+    margin-top: -13px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1414,7 +1413,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
-  background: #999;
+  background: #999999;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1486,8 +1485,7 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0)); }
 
 .site-title {
   color: #b40101;
@@ -1893,7 +1891,6 @@ table tr, table td {
     border: 1px solid #b40101; }
   .readlink > a:active {
     box-shadow: 0 0 0 #b40101;
-    -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
 #arrow_left, #arrow_right {
@@ -1955,21 +1952,20 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0); }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
   border-radius: 50%;
   transition: 0.3s; }
   .post .headshot:hover {
-    -webkit-transform: scale(0.9);
     transform: scale(0.9); }
 .post .fluid-vids {
   margin: 3rem 0; }
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0);
   margin-bottom: 1rem; }
 
 .tag {
@@ -1980,7 +1976,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0);
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2086,10 +2082,8 @@ table tr, table td {
     -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
 @keyframes checkmark {
   0% {
-    -webkit-transform: rotate(-15deg) scale(0.02);
     transform: rotate(-15deg) scale(0.02); }
   100% {
-    -webkit-transform: rotate(0deg) scale(1) translate(-209px, -148px);
     transform: rotate(0deg) scale(1) translate(-209px, -148px); } }
 .post-cta {
   font-size: 18px;
@@ -2117,13 +2111,10 @@ table tr, table td {
       background: transparent;
       color: #fe1d1d;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-      -webkit-transform: scale(1.05);
       transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
       box-shadow: 0 0 0 #fe1d1d;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 .about .socials {
@@ -2255,7 +2246,6 @@ table tr, table td {
     .search-box .search-input:focus {
       background: white;
       color: #b40101;
-      -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
     background: #b40101;
@@ -2273,7 +2263,6 @@ table tr, table td {
       border: 1px solid #b40101; }
     .search-box .search-submit:active {
       box-shadow: 0 0 0 #b40101;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 @media (max-width: 990px) {
@@ -2312,7 +2301,6 @@ table tr, table td {
       fill: #b40101; }
   .review.button:active, .review.button-ghost:active {
     box-shadow: 0 0 0 #b40101;
-    -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
 @media (max-width: 990px) {
@@ -2356,19 +2344,17 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
-  color: #5d9bd3;
-  padding: 2rem;
-  text-align: center;
+  background: #999999;
+  color: #fff;
+  padding: 2rem 2rem 0;
+  text-align: left;
   font-size: 18px; }
-  .footer hr {
-    border-top: 2px solid #b40101; }
   .footer address {
     font-style: normal; }
 
 @media(max-width: 500px) {
   .footer {
-    text-align: center; }
+    text-align: left; }
     .footer .vyral-logo {
       height: 3rem;
       width: 3rem; } }
@@ -2376,7 +2362,7 @@ table tr, table td {
   text-align: center; }
 
 .vyral-logo {
-  fill: #b40101;
+  fill: #fff;
   display: inline;
   height: 2rem;
   width: 2rem;
@@ -2387,11 +2373,40 @@ table tr, table td {
     fill: #fe1d1d; }
 
 .footer-pad {
-  padding-top: 20px; }
+  padding-bottom: 40px; }
 
-@media (max-width: 760px) {
-  .footer {
-    margin-bottom: 40px; } }
+.footer-title {
+  text-transform: uppercase;
+  font-size: 26px;
+  font-weight: bold; }
+
+.footer-hr {
+  width: 20%;
+  margin: 1rem 0;
+  align: left !important;
+  border-top: 2px solid #b40101; }
+
+.footer-container {
+  width: 100%;
+  max-width: 160rem;
+  margin: 0 auto; }
+
+.footer-logo {
+  display: block;
+  margin: 2rem auto 0;
+  max-width: 50px; }
+
+@media(max-width: 750px) {
+  align: center !important; }
+.footer {
+  color: #fff; }
+  .footer .attribution svg {
+    fill: #fff; }
+  .footer .socials svg {
+    fill: #fff; }
+  .footer a {
+    color: #fff; }
+
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -2557,11 +2572,10 @@ form select {
       border: 1px solid #b40101; }
     .contact-form input[type="submit"]:active {
       box-shadow: 0 0 0 #b40101;
-      -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
 .cta {
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2677,8 +2691,7 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0)); }
 
 .page-hero-img {
   background-position: center;
@@ -2750,6 +2763,28 @@ form select {
 .fb-page {
   width: 70%;
   margin-left: 15%; }
+
+.apply-now {
+  background: #b40101;
+  color: white;
+  border: 1px solid #b40101;
+  border-radius: 1000px;
+  padding: 1rem 10rem;
+  margin-top: 20px;
+  text-decoration: none;
+  font-size: 3rem;
+  text-align: center; }
+  .apply-now:hover {
+    background: #fff;
+    color: #b40101;
+    border: 1px solid #b40101; }
+  .apply-now:active {
+    box-shadow: 0 0 0 #b40101;
+    transform: translateY(0rem); }
+
+.apply-now > a {
+  background: #b40101;
+  color: white; }
 
 .e2ma_signup_form_label {
   color: #555 !important;

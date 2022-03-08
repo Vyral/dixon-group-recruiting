@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Denver Real Estate Podcast with The Dixon Group</title>
+    <title>Denver Real Estate Podcast with Daniel Dixon</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Dixon Group - your professional Denver Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>The Dixon Group</managingEditor>
-    <lastBuildDate>2020-01-13 11:27:22 -0600</lastBuildDate>
+    <lastBuildDate>2022-03-08 11:17:39 -0600</lastBuildDate>
     <media:copyright>The Dixon Group</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>recruiting@dgdenver.com</itunes:email>
+      <itunes:email>Daniel@dgdenver.com</itunes:email>
       <itunes:name>The Dixon Group</itunes:name>
     </itunes:owner>
     <itunes:author>The Dixon Group</itunes:author>
@@ -25,96 +25,173 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>SCALE Series, Part 3: Accountability</title>
+        <link>http://localhost:4000/scale-series-part-3-accountability.html</link>
         
-          <category>Lead Generation</category>
-        
-          <category>Lead Conversion</category>
-        
-          <category>Listing Presentation</category>
+          <category>Transaction Management</category>
         
         <author>The Dixon Group</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2020-04-06 00:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+3-+Accountability.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Dan Brener, one of our top-producing agents, joined me today to discuss the &lsquo;A&rsquo; in our SCALE series: accountability.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Last time, we touched on accountability, explaining how we meet with all of our agents weekly to ensure they’re acting with purpose and efficiency.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Before he joined the Dixon Group, top producer Dan Brener worked as a solo agent. He didn’t have much structure in his life—he just rolled with the punches. Since joining us, however, he’s learned that when you attack each day and week with intention and hold yourself accountable, then you’ll start accomplishing the goals you’ve set for yourself, your clients, and your business
 
-“This is an example of a pull quote”
+“We need to hold ourselves accountable for each day’s activities, so we can grow our business throughout the year.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+In this business, we usually don’t take days off because the work we put in today will pay off in a month or so. That means we need to hold ourselves accountable for each day’s activities, so we can grow our business throughout the year. If we can manage to hold ourselves accountable in all the right ways, that growth will also spill over into our personal lives.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about how to add accountability to your business and your life, don’t hesitate to reach out to us. We’d be happy to schedule a quick, 15-minute call to help you develop your success.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+3-+Accountability.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+3-+Accountability.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Dan Brener, one of our top-producing agents, joined me today to discuss the ‘A’ in our SCALE series: accountability.</itunes:subtitle>
         <itunes:author>The Dixon Group</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Dan Brener, one of our top-producing agents, joined me today to discuss the ‘A’ in our SCALE series: accountability.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>How We’re Creating a Seamless Experience</title>
+        <link>http://localhost:4000/how-were-creating-a-seamless-experience.html</link>
         
-          <category>Lead Generation</category>
-        
-          <category>Lead Conversion</category>
-        
-          <category>Listing Presentation</category>
+          <category>Transaction Management</category>
         
         <author>The Dixon Group</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2020-03-15 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/How+Were+Creating+a+Seamless+Experience.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Our goal is to create a seamless experience for you and your clients.
+
+Our mission is to create a seamless experience for you and your clients to get your transactions clear to close within 15 days. We take pride in the trust that agents put in us to get their transactions to the closing table, and we promise to provide exceptional communication, unique problem-solving strategies, and education for your clients from application to after closing. We take the stress out of the transaction so you can focus on getting more business.
+
+If you have any questions or want to know how we can help you and your business, feel free to reach out via phone or email. We look forward to hearing from you.
 
 
   
 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/How+Were+Creating+a+Seamless+Experience.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/How+Were+Creating+a+Seamless+Experience.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our goal is to create a seamless experience for you and your clients.</itunes:subtitle>
+        <itunes:author>The Dixon Group</itunes:author>
+        <itunes:summary>Our goal is to create a seamless experience for you and your clients.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>SCALE Series, Part 2: Culture</title>
+        <link>http://localhost:4000/scale-series-part-2-culture.html</link>
+        
+          <category>Transaction Management</category>
+        
+        <author>The Dixon Group</author>
+        <pubDate>2020-03-08 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+2-+Culture.mp4</guid>
+        <description>
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Today I&rsquo;ll discuss what the C in our SCALE series stands for: culture.
+
+When you’re creating a culture in your business, do you want it to come by design or by default? We’ve been very intentional about maintaining our culture and who we bring into our world. So if you’re building your business team right now, or you’re just looking to add a transaction coordinator or lender, be sure that they mesh well with your business’ culture.
+
+All of our agents are held to a very high standard of accountability, which is one of the most important staples of our culture. We’ve found that the top producing agents like this too; every week, they track their metrics and submit them to the team’s Slack channel on Sunday.
+
+Not only do we have leadership accountability, but we also have team accountability. Each agent knows they’re reporting those metrics on Sunday evening for the whole team to see what they’ve accomplished.
+
+Then, each Monday, we’ll do a quick one-on-one with each agent where we’ll review their pipelines, their Boomtown profiles, etc., and generally analyze what they’ve been doing over the past 30 days and how that has contributed to the current state of their business. We want them to have both intention and awareness behind their daily and weekly activities so that as we’re going over their quarterly and yearly progress, we have a clear understanding of their overall position.
+
+“To maintain your culture, you have to be reminded of it every single day.”
+
+The second aspect of culture to focus on is family environment. When you join the Dixon Group, we always joke that you become part of the family, but it’s true—when you create a partnership with someone, you need to have an emotional connection with them so that they know they’re supported and a part of the team. We’re a team of like-minded individuals with open minds, and all our agents embody the family mentality.
+
+The last facet of culture is understanding your ‘why.’ Your whole team needs to understand your underlying motivation for what it is you do and how they contribute to it. When everyone’s on board, everyone has the same base motivations to do the best they can every single day.
+
+The Dixon Group strives for culture by design. To maintain your culture, you have to be reminded of it every single day. If you don’t, yours will become a culture by default instead of by design.
+
+Next time, we’ll discuss the A in SCALE: accountability. If you’d like more information about building a team or anything else to do with fostering a better real estate career, I highly recommend that you read “Great Teams: 16 Things High-Performing Organizations Do Differently” by Don Yager. If you’d like to talk about what you read or expanding your business in general, we’d love to be a resource for you. Feel free to reach out at any time.
 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+  
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+2-+Culture.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Recruiting/SCALE+Series%2C+Part+2-+Culture.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll discuss what the C in our SCALE series stands for: culture.</itunes:subtitle>
+        <itunes:author>The Dixon Group</itunes:author>
+        <itunes:summary>Today I’ll discuss what the C in our SCALE series stands for: culture.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>SCALE Series, Part 1: Strategy</title>
+        <link>http://localhost:4000/scale-series-part-1-strategy.html</link>
+        
+        <author>The Dixon Group</author>
+        <pubDate>2020-02-20 11:20:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+A business is only as successful as the strategies behind it. Today in this first part of our new series, I’ll share a few of our business strategies as tips to help you increase your success.
+
+Before each new year, we hold a 1-3-5 goal-setting session with each of our agents—if you’d like a template of these sessions, reach out to me and I’d be glad to send it to you so you can set up your own. In short, each agent sets one major goal with three objectives and five “hows” to achieve that goal. This is an incredible tool that allows each agent to have a vision for success in the coming year.
+
+To parallel their 1-3-5s, we also do what we call a 411, where they each present their objectives for the month broken down into weeks. This allows them to track how many appointments they need to have with lenders and sellers.
+
+“Tracking is a massive portion of our business plan.”
+
+Speaking of tracking, we also make a point to track everything week after week so that our agents have a good grasp of where their business currently sits. That way, if they’re not on track, we can catch that before we get too far into the year. Tracking is a massive portion of our business plan; implementing a tracking system in your business will give you clarity and help you do what you need to do each day faster.
+
+Our group’s theme is intentional living. One of the key pieces of living that theme is maintaining a work/life balance. We like to check in with each of our agents to find out how they’re doing in terms of their housing, family, interests, etc. They work hard every day, so we strategize to help them find a balance between their work and home life so they can continue to operate their business and enjoy life while they do it.
+
+Next time in part two of our SCALE series we’ll talk about culture. If you have any questions in the meantime, don’t hesitate to reach out to the Dixon Group. We are here to be a resource for you.
 
 
+  
 
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>In part one of my new series, I’ll discuss business strategy and tactics you can use to strengthen your organization.</itunes:subtitle>
         <itunes:author>The Dixon Group</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>In part one of my new series, I’ll discuss business strategy and tactics you can use to strengthen your organization.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We’re Teaching You Our Best Lessons</title>
+        <link>http://localhost:4000/were-teaching-you-our-best-lessons.html</link>
+        
+        <author>The Dixon Group</author>
+        <pubDate>2020-02-07 15:51:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Daniel+Dixon/2020/Were+Teaching+You+Our+Best+Lessons.mp4</guid>
+        <description>
+
+I’m excited to announce the launch of our coaching and mentoring video blog. I jumped in to real estate in 2013 as a solo agent, and in just a few years, built a mega agent team, in-house mortgage team, ISA division, wholesale business, and ownership in a title company. There have been plenty of failures, lessons learned, and massive growth to get us where we are today and we’re excited to share all of that with you. We’ll bring you all of this information through our SCALE series, which stands for Strategy, Culture, Accountability, Leverage, and Experience.
+
+
+  
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Daniel+Dixon/2020/Were+Teaching+You+Our+Best+Lessons.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Daniel+Dixon/2020/Were+Teaching+You+Our+Best+Lessons.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re teaching agents our most important lessons, the biggest mistakes to avoid, and more through our brand-new SCALE series. Here’s what you can expect from it.</itunes:subtitle>
+        <itunes:author>The Dixon Group</itunes:author>
+        <itunes:summary>We’re teaching agents our most important lessons, the biggest mistakes to avoid, and more through our brand-new SCALE series. Here’s what you can expect from it.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Denver, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
